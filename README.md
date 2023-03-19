@@ -82,6 +82,7 @@ xn11=scaler.transform(xn1)
 model.predict(xn11)
 ```
 ## Dataset Information
+![187083773-f50a5abe-2abc-4204-b5c1-1d0cd1e9775c](https://user-images.githubusercontent.com/94677128/226162962-34170ceb-afd2-496e-8551-7436351a14de.png)
 
 
 
